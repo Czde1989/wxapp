@@ -1,0 +1,13 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/g2048/g2048"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#da7c0c",
+    "navigationBarTitleText": "我的小程序",
+    "navigationBarTextStyle":"white"
+  }
+}
